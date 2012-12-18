@@ -1,0 +1,6 @@
+hello
+you
+are
+you are beaufiful
+you are beaufiful
+haha, now i can print to tmp.txt

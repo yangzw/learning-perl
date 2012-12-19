@@ -1,3 +1,7 @@
 标量上下文和列表上下文
 字符属性：perluniprops文档里面
 . 号能匹配换行符以外的任意一个字符,要匹配任意字符使用[\d\D]
+关于反向引用的信息在perlre文档中
+perl内置变量在perlvar文档中
+文档
+perlrequick perlretut

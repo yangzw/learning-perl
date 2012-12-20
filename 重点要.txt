@@ -4,4 +4,6 @@
 关于反向引用的信息在perlre文档中
 perl内置变量在perlvar文档中
 文档
-perlrequick perlretut
+perlrequick perlretut perlfunc
+
+元字符：点号.   反斜线\ 

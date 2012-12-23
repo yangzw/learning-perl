@@ -13,3 +13,8 @@ my $dir = "try";
 if(-d $dir and -s _ < 521){
 	print "The dir is less than 521\n";
 }
+
+my $timestamp = 1180630098;
+my $date = localtime $timestamp;
+my $time = gmtime;
+print "$date | $time\n";

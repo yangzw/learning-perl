@@ -1,0 +1,26 @@
+总用量 88
+drwxr-xr-x   2 root root  4096 12月 13 09:38 bin
+drwxr-xr-x   3 root root  4096 12月 18 19:40 boot
+drwxr-xr-x   2 root root  4096 10月  3 20:52 cdrom
+drwxr-xr-x  17 root root  4280 12月 24 07:37 dev
+drwxr-xr-x 144 root root 12288 12月 24 11:23 etc
+drwxr-xr-x   3 root root  4096 10月  3 20:53 home
+lrwxrwxrwx   1 root root    37 12月 18 19:39 initrd.img -> /boot/initrd.img-3.2.0-35-generic-pae
+lrwxrwxrwx   1 root root    37 12月 13 09:41 initrd.img.old -> /boot/initrd.img-3.2.0-34-generic-pae
+drwxr-xr-x  22 root root  4096 12月 13 09:35 lib
+drwx------   2 root root 16384 10月  3 20:47 lost+found
+drwxr-xr-x   5 root root  4096 12月 24 11:23 media
+drwxr-xr-x   3 root root  4096 12月 15 00:33 mnt
+drwxr-xr-x   2 root root  4096  4月 23  2012 opt
+dr-xr-xr-x 208 root root     0 12月 24 15:37 proc
+drwx------   8 root root  4096 10月  4 02:38 root
+drwxr-xr-x  23 root root   840 12月 24 18:09 run
+drwxr-xr-x   2 root root  4096 12月 20 10:15 sbin
+drwxr-xr-x   2 root root  4096  3月  5  2012 selinux
+drwxr-xr-x   2 root root  4096  4月 23  2012 srv
+drwxr-xr-x  13 root root     0 12月 24 15:37 sys
+drwxrwxrwt  16 root root  4096 12月 24 20:30 tmp
+drwxr-xr-x  10 root root  4096  4月 23  2012 usr
+drwxr-xr-x  13 root root  4096 12月 23 23:36 var
+lrwxrwxrwx   1 root root    33 12月 18 19:39 vmlinuz -> boot/vmlinuz-3.2.0-35-generic-pae
+lrwxrwxrwx   1 root root    33 12月 13 09:42 vmlinuz.old -> boot/vmlinuz-3.2.0-34-generic-pae
